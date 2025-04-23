@@ -9,3 +9,7 @@ rather than GitHub Issues.
 Want to contribute towards this repository? Follow the server
 development documentation
 [here](https://docs.sentry.io/internal/).
+
+## Testing Your Changes
+
+Before submitting a PR, please ensure you've run the appropriate tests to verify your changes.
